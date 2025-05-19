@@ -3,7 +3,7 @@ from tkinter import ttk  # For themed widgets
 from tkinter import messagebox
 import string
 import random
-import pyperclip  # For copying to clipboard (install with: pip install pyperclip)
+import pyperclip
 
 
 class PasswordGeneratorApp:
